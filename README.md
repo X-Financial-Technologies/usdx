@@ -20,7 +20,7 @@ The security policy is detailed in [SECURITY.md](https://linktr.ee/xft.reed), an
 
 ## Audits
 
-Audits can be found at https://github.com/xfinancialtechnologies/audits.
+Audits can be found at [insert audits repo].
 
 ## Contributing
 
