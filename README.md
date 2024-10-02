@@ -215,4 +215,4 @@ X Protocol Contracts are released under the [MIT License](https://linktr.ee/xft.
 
 ## Legal
 
-The use of this Project is governed by the terms found at [https://docs.xft.com/legal/terms-and-conditions](https://linktr.ee/xft.reed). XFT <> Mountain
+The use of this Project is governed by the terms found at [https://docs.xft.com/legal/terms-and-conditions](https://linktr.ee/xft.reed).
